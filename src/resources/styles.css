@@ -153,7 +153,9 @@ footer .footer_copyright {
 
 .vn_wrapper {
     display: flex;
-    padding: 170px 0px;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
 }
 
 .vn_item {
@@ -177,7 +179,7 @@ footer .footer_copyright {
 }
 
 .vn_item .vn_inner:hover {
-    background: #3e3e3e;
+    background: #022d50;
 }
 
 .vn_item .vn_icon_square {

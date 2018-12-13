@@ -42,7 +42,7 @@ export default class header extends Component {
         position="fixed"
         style={{
           
-          backgroundColor: this.state.headerStyle? '#2f2f2f' : 'transparent',
+          background: this.state.headerStyle? 'linear-gradient(135deg, #766dff 0%, #88f3ff 100%)' : 'transparent',
           boxShadow: 'none',
           padding: '10px 0px'  
           

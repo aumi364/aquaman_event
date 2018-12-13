@@ -37,8 +37,8 @@ class Countdown extends Component {
             <div
               className="countdown_top"
               style={{
-                background: "linear-gradient(skyblue,aqua)",
-                color: "SteelBlue "
+                background: "linear-gradient(135deg, #766dff, #0b94a3)",
+                color: "white "
               }}
             >
               IN THEATER
@@ -46,7 +46,7 @@ class Countdown extends Component {
             <div
               className="countdown_bottom"
               style={{
-                background: "linear-gradient(skyblue,aqua)"
+                background: "linear-gradient(0deg, #766dff, #0b94a3)"
               }}
             >
               <div className="countdown_item">

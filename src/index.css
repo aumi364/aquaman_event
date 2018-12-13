@@ -12,3 +12,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.tescolor{
+  background: linear-gradient(135deg, #766dff, #88f3ff);
+  background: rgb(6, 22, 46);
+}
