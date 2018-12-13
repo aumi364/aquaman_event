@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/aquaman_react_practice_app/precache-manifest.c94dfa28f7ca733f45b40c72bb68dff5.js"
+  "/aquaman_react_practice_app/precache-manifest.3c5792f404644071fed239b7de9899ec.js"
 );
 
 workbox.clientsClaim();

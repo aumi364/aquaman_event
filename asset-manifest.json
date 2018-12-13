@@ -1,7 +1,7 @@
 {
   "main.css": "/aquaman_react_practice_app/static/css/main.ca72bd4f.chunk.css",
-  "main.js": "/aquaman_react_practice_app/static/js/main.3136b988.chunk.js",
-  "main.js.map": "/aquaman_react_practice_app/static/js/main.3136b988.chunk.js.map",
+  "main.js": "/aquaman_react_practice_app/static/js/main.b85dd596.chunk.js",
+  "main.js.map": "/aquaman_react_practice_app/static/js/main.b85dd596.chunk.js.map",
   "static/js/1.392b5322.chunk.js": "/aquaman_react_practice_app/static/js/1.392b5322.chunk.js",
   "static/js/1.392b5322.chunk.js.map": "/aquaman_react_practice_app/static/js/1.392b5322.chunk.js.map",
   "runtime~main.js": "/aquaman_react_practice_app/static/js/runtime~main.457aff96.js",
@@ -11,6 +11,6 @@
   "static/media/slide_three.jpg": "/aquaman_react_practice_app/static/media/slide_three.4fe2ec47.jpg",
   "static/media/slide_two.jpg": "/aquaman_react_practice_app/static/media/slide_two.6e2965ec.jpg",
   "index.html": "/aquaman_react_practice_app/index.html",
-  "precache-manifest.c94dfa28f7ca733f45b40c72bb68dff5.js": "/aquaman_react_practice_app/precache-manifest.c94dfa28f7ca733f45b40c72bb68dff5.js",
+  "precache-manifest.3c5792f404644071fed239b7de9899ec.js": "/aquaman_react_practice_app/precache-manifest.3c5792f404644071fed239b7de9899ec.js",
   "service-worker.js": "/aquaman_react_practice_app/service-worker.js"
 }
