@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/aquaman_react_practice_app/static/js/runtime~main.457aff96.js"
   },
   {
-    "revision": "5697f50306df7e67f628",
-    "url": "/aquaman_react_practice_app/static/js/main.5697f503.chunk.js"
+    "revision": "eb16bcd22b4dcf79c5bb",
+    "url": "/aquaman_react_practice_app/static/js/main.eb16bcd2.chunk.js"
   },
   {
     "revision": "d192d9165f6447b53d6b",
     "url": "/aquaman_react_practice_app/static/js/1.d192d916.chunk.js"
   },
   {
-    "revision": "5697f50306df7e67f628",
-    "url": "/aquaman_react_practice_app/static/css/main.f0c7f294.chunk.css"
+    "revision": "eb16bcd22b4dcf79c5bb",
+    "url": "/aquaman_react_practice_app/static/css/main.499af736.chunk.css"
   },
   {
-    "revision": "785b2d20e39084cde607848c96bf54f7",
+    "revision": "2b2657ce3f449b4e76d2444d675bceec",
     "url": "/aquaman_react_practice_app/index.html"
   }
 ];
