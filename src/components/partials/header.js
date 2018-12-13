@@ -43,6 +43,7 @@ export default class header extends Component {
         style={{
           
           background: this.state.headerStyle? 'linear-gradient(135deg, #766dff 0%, #88f3ff 100%)' : 'transparent',
+          color: this.state.headerStyle? 'white' : 'black',
           boxShadow: 'none',
           padding: '10px 0px'  
           
@@ -54,7 +55,7 @@ export default class header extends Component {
                   The Venue
               </div>
               <div className="header_logo_title">
-                  Musical Events
+                  Movie
               </div>
               </div>
               <IconButton

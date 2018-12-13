@@ -33,7 +33,7 @@ const Venue = () => {
                                         Event Date & Time
                                      </div>
                                      <div className="vn_desc">
-                                     21st december @09.am
+                                     21st december @ 09.00 am
                                      </div>
                                 </div>
                                 
