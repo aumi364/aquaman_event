@@ -1,4 +1,5 @@
 import React from 'react';
+import Zoom from 'react-reveal/Zoom';
 import icon_calender from '../../resources/images/icons/calendar.png';
 import icon_location from '../../resources/images/icons/location.png';
 import color from '@material-ui/core/colors/purple';
@@ -7,13 +8,14 @@ const Venue = () => {
         <div>
             <div className="bck_black"
             style={{
-                background: 'rgb(6, 22, 46)',
+                background: 'linear-gradient(rgb(6, 22, 46),rgb(3, 46, 110))',
                 
             }}
             
             >
                 <div className="center_wrapper">
                     <div className="vn_wrapper">
+                    <Zoom duraiton={500}>
                         <div className="vn_item">
                             <div className="vn_outer">
                                  <div className="vn_inner"
@@ -40,6 +42,8 @@ const Venue = () => {
                             
                             </div>
                         </div>
+                        </Zoom>
+                        <Zoom duration={500} delay={500}>
                         <div className="vn_item">
                             <div className="vn_outer">
                                  <div className="vn_inner"
@@ -66,7 +70,9 @@ const Venue = () => {
                             
                             </div>
                         </div>
+                        </Zoom>
                     </div>
+                    
                 </div>
             </div>
         </div>
